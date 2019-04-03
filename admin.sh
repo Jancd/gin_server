@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SERVER="apiserver"
+SERVER="gin_server"
 BASE_DIR=$PWD
 INTERVAL=2
 
